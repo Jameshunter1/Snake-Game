@@ -9,20 +9,16 @@ To get started with the game, follow these steps:
 Install Python if you don't have it already. You can download it from the official website [here](https://www.python.org/downloads/).
 
 Clone the repository to your local machine using: 
-```bash 
-git clone https://github.com/your-username/python-snake-game.git.
-```
+
+`git clone https://github.com/your-username/python-snake-game.git.`
 
 Navigate to the project directory using the command line.
 
-```bash 
-cd Snake-Game 
-```
+`cd Snake-Game `
 
 Run the command 
-```bash
-python main.py 
-``` 
+
+`python main.py `
 
 ## Features
 
