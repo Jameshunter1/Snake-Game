@@ -2,9 +2,12 @@
 
 This is a classic snake game built in Python using the Turtle graphics module. The objective of the game is to guide the snake to eat food, grow in length, and avoid colliding with the walls or its own tail. The game becomes progressively harder as the snake grows longer and the speed increases.
 
-## Installation
+
+## Prerequisites
 
 Install Python if you don't have it already. You can download it from the official website [here](https://www.python.org/downloads/).
+
+## Installation
 
 Clone the repository to your local machine using: 
 
