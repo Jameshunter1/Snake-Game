@@ -47,4 +47,5 @@ You can customize the game by adjusting the following parameters:
 ## Acknowledgments
 
 This project was inspired by the classic snake game that was popularized in the 90s.
+
 The Turtle graphics module was used to create the game interface and handle user input.
